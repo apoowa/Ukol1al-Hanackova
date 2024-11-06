@@ -1,0 +1,1 @@
+# jp.hanackova.py
